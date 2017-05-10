@@ -26,3 +26,9 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Prerequisites
+
+_node.js_ - Based on your OS - checkout [https://nodejs.org/en/download/package-manager/](https://nodejs.org/en/download/package-manager "node.js download page") 
+
+_angular-cli_ - Use npm to install the angular-cli `npm install -g @angular/cli`
